@@ -25,7 +25,7 @@ function TrendingRecipies() {
         </div>
         <div>
           <img src="" className="" alt="" />
-          <p>Petit Four</p>
+          <p>Petit Fours</p>
         </div>
       </div>
     </div>
